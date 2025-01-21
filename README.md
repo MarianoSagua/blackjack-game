@@ -60,13 +60,3 @@ blackjack-game/
 ├── style.css
 └── .gitignore
 ```
-
-## Dependencies
-
-- [SweetAlert2](https://sweetalert2.github.io/) - For displaying alerts.
-- [Underscore.js](https://underscorejs.org/) - For utility functions.
-- [Vite](https://vitejs.dev/) - For development and build tooling.
-
-## License
-
-This project is licensed under the MIT License.
